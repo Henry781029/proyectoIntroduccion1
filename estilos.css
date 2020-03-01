@@ -4,12 +4,24 @@ h2 { font-weight: normal;}
 h4 { font-weight: normal;}
 
 
-.hidroponicos {
-    
-    font-size: larger;
+a {
 
+    font-size: 1.2em;
+    
 }
 
+
+
+.imagenes {
+    
+    background-image: url(imagenes/imghidropicos3.jpg);
+    background-image: image(imagen3);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1330px;
+    height: 590px;
+
+}
 
 p{ 
     
