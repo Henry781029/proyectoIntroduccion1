@@ -4,10 +4,18 @@ h2 { font-weight: normal;}
 h4 { font-weight: normal;}
 
 
-.hidroponicos {font-size: 1900px;}
+.hidroponicos {
+    
+    font-size: larger;
+
+}
 
 
-.parrafo { font-size: 1.2em;}
+p{ 
+    
+    font-size: 1.2em;
+
+}
 
 
 footer {
