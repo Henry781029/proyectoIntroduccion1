@@ -35,12 +35,19 @@ p{
 
 }
 
-/*footer {
+footer {
 
 background-color: grey;
 text-align: center;
 color: white;
 
-}*/
+}
+
+.pie {
+
+    text-align: center;
+    color: white;
+
+}
 
 
