@@ -3,9 +3,10 @@ h1 {
     color: green;
 }
 
-/*h2 { font-weight: normal;}
-h4 { font-weight: normal;}*/
-
+h2 { 
+    font-weight: bold;
+    color: green;
+}
 
 a {
 
@@ -24,13 +25,17 @@ a {
 
 }
 
-/*p{ 
+p{ 
     
-    font-size: 1.2em;
+    color: green;
+    font-style: italic;
+    text-align: justify;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
 
 }
 
-footer {
+/*footer {
 
 background-color: grey;
 text-align: center;
