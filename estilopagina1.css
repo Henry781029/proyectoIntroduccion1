@@ -1,7 +1,10 @@
-/*h1 { font-weight: bold; }
+h1 { 
+    font-weight: bold; 
+    color: green;
+}
 
-h2 { font-weight: normal;}
-h4 { font-weight: normal;}
+/*h2 { font-weight: normal;}
+h4 { font-weight: normal;}*/
 
 
 a {
@@ -16,12 +19,12 @@ a {
     background-image: image(imagen3);
     background-size: cover;
     background-attachment: fixed;
-    width: 1330px;
-    height: 590px;
+    width: 1650px;
+    height: 635px;
 
 }
 
-p{ 
+/*p{ 
     
     font-size: 1.2em;
 
