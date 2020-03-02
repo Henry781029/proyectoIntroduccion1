@@ -1,11 +1,17 @@
 h1 { 
     font-weight: bold; 
-    color: green;
+    color: blue;
 }
 
-/*h2 { 
+h2 { 
     font-weight: bold;
-    color: green;
+    color: blue;
+}
+
+body {
+
+    background-color: #E9FBFB;
+
 }
 
 a {
@@ -16,20 +22,20 @@ a {
 
 .imagenes {
     
-    background-image: url(imagenes/imghidropicos3.jpg);
+    background-image: url(imagenes/imghidropicos1.jpg); 
     background-image: image(imagen3);
-    background-size: cover;
-    background-attachment: fixed;
+    background-repeat: repeat-x;
     width: 1650px;
     height: 635px;
+    
 
 }
 
 p{ 
     
-    color: green;
+    color: blue;
     font-style: italic;
-    text-align: justify;
+    text-align: left;
     font-family: "Trebuchet MS";
     font-weight: normal;
 
@@ -48,4 +54,4 @@ color: white;
     text-align: center;
     color: white;
 
-}*/
+}
