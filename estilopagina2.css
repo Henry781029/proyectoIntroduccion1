@@ -23,9 +23,11 @@ a {
 .imagenes {
     
     background-image: url(imagenes/imghidropicos1.jpg); 
-    background-image: image(imagen3);
-    background-repeat: repeat-x;
-    width: 1900px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 1710px;
     height: 635px;
     
 
@@ -35,7 +37,7 @@ p{
     
     color: blue;
     font-style: italic;
-    text-align: left;
+    text-align: justify;
     font-family: "Trebuchet MS";
     font-weight: normal;
 
