@@ -10,16 +10,23 @@ a {
     
 }
 
+.texto1{
+
+    text-align: justify;
+
+}
+
 
 
 .imagenes {
     
     background-image: url(imagenes/imghidropicos3.jpg);
-    background-image: image(imagen3);
     background-size: cover;
     background-attachment: fixed;
-    width: 1900px;
+    background-position: center;
+    background-repeat: no-repeat;
     height: 635px;
+    width: 1710px;
 
 }
 

@@ -17,10 +17,11 @@ a {
 .imagenes {
     
     background-image: url(imagenes/imghidropicos3.jpg);
-    background-image: image(imagen3);
     background-size: cover;
     background-attachment: fixed;
-    width: 1900px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 1710px;
     height: 635px;
 
 }
